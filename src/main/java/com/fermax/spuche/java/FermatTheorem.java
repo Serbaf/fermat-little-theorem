@@ -64,7 +64,7 @@ public class FermatTheorem
 	
 	/**
 	 * Se selecciona un número "a" al azar siempre que cumpla ciertas condiciones, concretamente 
-	 * no ser divisible por "p" (aunque aquí no se ha implementado así exactamente)
+	 * no ser divisible por "p".
 	 * 
 	 * @param p número cuya primalidad se está comprobando
 	 * @return Un número "a" entero que cumpla las condiciones deseadas
