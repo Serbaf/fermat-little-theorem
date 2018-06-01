@@ -22,7 +22,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.fermax.spuche.Java.FermatTheorem</mainClass>
+							<mainClass>com.fermax.spuche.java.FermatTheorem</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
